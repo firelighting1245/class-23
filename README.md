@@ -1,2 +1,2 @@
-# class-24
+# class-23
 bombs doing nothing
